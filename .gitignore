@@ -1,0 +1,6 @@
+# ignore raw mailbox files
+*.mbox
+
+# ignore exported text outputs
+emails_output.txt
+
